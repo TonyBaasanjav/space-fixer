@@ -6,6 +6,7 @@ dist/
 out/
 build/
 *.tsbuildinfo
+*.vsix
 
 # Generated JavaScript (optional: only use if you don't want compiled JS in your repo)
 # Most projects ignore these and compile fresh on each environment

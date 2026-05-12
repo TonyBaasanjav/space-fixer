@@ -3,6 +3,8 @@
   "displayName": "Space Fixer",
   "description": "fixes spaces more than 1 into single spaces",
   "version": "0.0.1",
+  "publisher": "TonyBaasanjav",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.118.0"
   },
@@ -14,8 +16,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "space-fixer.helloWorld",
-        "title": "Hello World"
+        "command": "space-fixer.fixSpace",
+        "title": "Fix Spaces"
       }
     ]
   },
@@ -44,5 +46,9 @@
     "typescript": "^5.9.3",
     "@vscode/test-cli": "^0.0.12",
     "@vscode/test-electron": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TonyBaasanjav/space-fixer"
   }
 }
