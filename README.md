@@ -29,11 +29,13 @@ To work even faster, add this to your `keybindings.json`:
 
 ## 📝 Release Notes
 
-### 1.0.0
+### 0.0.1
 * Initial release.
 * Added `Fix Spaces` command.
 * Full support for multi-cursor and partial selections.
 
+### 0.0.2
+* Supports VsCode version 1.104.0 and higher.
 ---
 
 **Enjoy a cleaner workspace!**
